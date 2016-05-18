@@ -1,0 +1,4 @@
+---
+  ddclient_googlednsusername: 'username'
+  ddclient_googlednspassword: 'p@ssw0rd'
+  ddclient_googlednshostname: 'short-name'
